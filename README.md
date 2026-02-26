@@ -1,10 +1,8 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2545,70:1a3c6e,100:2e6dad&height=220&section=header&text=Hey%20there!%20I'm%20Srinivas%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20Builder%20of%20Cool%20Stuff&descAlignY=62&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2545,70:1a3c6e,100:2e6dad&height=220&section=header&text=Hey%20there!%20I'm%20Srinivas%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlign=50&descAlignY=62&descSize=20&animation=fadeIn"/>
 </div>
 
 <div align="center">
-
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srinivasguptha/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssrinivasguptha@gmail.com)
