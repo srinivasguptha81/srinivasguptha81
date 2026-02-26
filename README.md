@@ -29,7 +29,7 @@ class SrinivasGuptha:
         self.name      = "Srinivas Guptha"
         self.role      = "AI + Full-Stack Developer"
         self.uni       = "LPU — B.Tech CSE (AI & ML)"
-        self.year      = "3rd Year | CGPA: 7.80"
+        self.year      = "3rd Year"
         self.location  = "Phagwara, Punjab 🇮🇳"
 
     @property
@@ -50,12 +50,9 @@ class SrinivasGuptha:
             "Frontend" : ["HTML", "CSS", "JavaScript", "Bootstrap"],
         }
 
-    def fun_fact(self):
-        return "I automated LeetCode solving with GPT so I could nap 😴"
 
 me = SrinivasGuptha()
-print(me.fun_fact())
-# → I automated LeetCode solving with GPT so I could nap 😴
+
 ```
 
 <br clear="right"/>
@@ -151,30 +148,6 @@ print(me.fun_fact())
 
 ---
 
-## 🎯 2026 Roadmap
-
-```
-[████████████████████░░░░] 80% — Land an AI/ML Internship
-[████████████████░░░░░░░░] 65% — Publish 5 blogs on Medium  
-[████████████████████████] ✅  — Build Ivy Intelligence
-[████████████████████████] ✅  — Build LPU Campus Management System
-[████████████████████████] ✅  — Automate LeetCode with GPT
-[████████░░░░░░░░░░░░░░░░] 35% — Contribute to Open Source AI
-[████░░░░░░░░░░░░░░░░░░░░] 15% — Deploy production app on cloud
-```
-
----
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Build Something Together!
@@ -186,10 +159,6 @@ print(me.fun_fact())
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srinivasguptha/)
 [![Email](https://img.shields.io/badge/Drop_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssrinivasguptha@gmail.com)
-
-<br/>
-
-> *"First, solve the problem. Then, write the code." — John Johnson*
 
 <br/>
 
